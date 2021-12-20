@@ -6,7 +6,7 @@ import * as radar from './create-radar-contrib';
 import * as type from './type';
 
 const fgcolor = '#00000f';
-const bgcolor = '#ffffff';
+const bgcolor = '#EBEEEE';
 const strongColor = '#111133';
 const width = 1280;
 const height = 850;
