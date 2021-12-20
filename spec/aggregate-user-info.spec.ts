@@ -19,6 +19,21 @@ describe('github-graphql', () => {
                 "color": "#0298c3",
                 "contributions": 73
             },
+             {
+                "language": "Html",
+                "color": "#0298c3",
+                "contributions": 73
+            },
+             {
+                "language": "Css",
+                "color": "#0298c3",
+                "contributions": 73
+            },
+             {
+                "language": "Php",
+                "color": "#0298c3",
+                "contributions": 73
+            },
             {
                 "language": "Kotlin",
                 "color": "#F18E33",
