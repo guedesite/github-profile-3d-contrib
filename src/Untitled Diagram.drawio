@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T13:10:04.963Z" agent="5.0 (X11)" etag="jJKEfidRaM9wTu5H1Z2o" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T13:14:36.308Z" agent="5.0 (X11)" etag="UBgh-ru1m7qCqvMVTMnT" version="17.2.1" type="github">
   <diagram id="g9ijyWYw9M_Xq7lQamkd" name="Page-1">
     <mxGraphModel dx="292" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,10 +23,22 @@
           <mxGeometry x="220" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiZnfcJw_Cnm3kZu3M0U-1" value="Mécanicien" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="555" width="120" height="35" as="geometry" />
+          <mxGeometry x="220" y="555.5" width="120" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="qiZnfcJw_Cnm3kZu3M0U-2" value="&lt;div align=&quot;left&quot;&gt;- SSN_M&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Nom_M&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Adresse_M&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Numero_Tel&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="220" y="590" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qiZnfcJw_Cnm3kZu3M0U-3" value="Pilote" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="680" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qiZnfcJw_Cnm3kZu3M0U-4" value="&lt;div align=&quot;left&quot;&gt;- SSN_P&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Numero_brevet&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Nom_P&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Adresse_P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qiZnfcJw_Cnm3kZu3M0U-5" value="Vol" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qiZnfcJw_Cnm3kZu3M0U-6" value="&lt;div align=&quot;left&quot;&gt;- Immatriculation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- SSN_P&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Heure_départ&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Heure_arrivée&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="750" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
